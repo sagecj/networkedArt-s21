@@ -1,0 +1,19 @@
+{
+  "name": "pip-2021-intro",
+  "version": "1.0.0",
+  "description": "Node Intro for PIP 2021",
+  "main": "basic.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagecj/networkedArt-s21.git"
+  },
+  "author": "@sagecj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagecj/networkedArt-s21/issues"
+  },
+  "homepage": "https://github.com/sagecj/networkedArt-s21#readme"
+}
